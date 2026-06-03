@@ -365,6 +365,12 @@ h1{
         max-width: 350px;
         margin: auto;
     }
+  
+    .welcome-text{
+        width: 90%;
+        margin: 0 auto;
+        text-align: center;
+    }
 
     /* BACK BUTTON */
 
